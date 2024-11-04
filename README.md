@@ -22,6 +22,7 @@ This repository serves as a collaborative technical manual documenting problems,
 ## Topic Categories
 - Fundamentals
 - FNN
+- CNN
 - RNN
 - Transformers
 - Problem Sets
