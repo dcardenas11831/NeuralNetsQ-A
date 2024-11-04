@@ -1,0 +1,35 @@
+title: "Problem & Solution Template"
+labels: ["solution"]
+body:
+  - type: markdown
+    attributes:
+      value: "## Solution Documentation"
+  - type: input
+    id: problem-ref
+    attributes:
+      label: Related Problem
+      description: "Link to the original problem discussion"
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Solution Description
+      description: "Explain your solution approach"
+    validations:
+      required: true
+  - type: textarea
+    id: implementation
+    attributes:
+      label: Implementation
+      description: "Provide the implementation details and code"
+      render: python
+    validations:
+      required: true
+  - type: textarea
+    id: testing
+    attributes:
+      label: Testing & Validation
+      description: "Describe how you tested the solution"
+    validations:
+      required: true

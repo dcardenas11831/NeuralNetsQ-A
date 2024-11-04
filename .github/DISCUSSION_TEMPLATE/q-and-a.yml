@@ -1,0 +1,40 @@
+title: "Q&A Template"
+labels: ["q&a"]
+body:
+  - type: markdown
+    attributes:
+      value: "## Question Template"
+  - type: input
+    id: topic
+    attributes:
+      label: Topic
+      description: "What Neural Network/Deep Learning topic does this relate to?"
+      placeholder: "e.g., Backpropagation, CNN Architecture"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem Description
+      description: "Describe the problem or concept you need clarification on"
+      placeholder: "Provide context and specific details about your question"
+    validations:
+      required: true
+  - type: textarea
+    id: code
+    attributes:
+      label: Code (if applicable)
+      description: "Include relevant code snippets"
+      render: python
+  - type: textarea
+    id: attempts
+    attributes:
+      label: What have you tried?
+      description: "Describe any approaches you've already attempted"
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Contribution Agreement
+      options:
+        - label: I have searched existing discussions and this is not a duplicate
+          required: true
