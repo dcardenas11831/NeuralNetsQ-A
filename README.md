@@ -21,11 +21,11 @@ This repository serves as a collaborative technical manual documenting problems,
 
 ## Topic Categories
 - Fundamentals
-- Network Architectures
-- Training & Optimization
-- Implementation Challenges
-- Best Practices
-- Performance Optimization
+- FNN
+- RNN
+- Transformers
+- Problem Sets
+- Final Projects
 
 ## Project Structure
 - Each major topic has its own discussion category
