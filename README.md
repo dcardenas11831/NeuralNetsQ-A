@@ -6,18 +6,15 @@ This repository serves as a collaborative technical manual documenting problems,
 ## How to Use This Repository
 1. **Browse Existing Content:**
    - Check the [Discussions](../../discussions) tab for Q&A
-   - Browse the `docs/solutions` directory for detailed solutions
-   - Explore `docs/code-examples` for implementation examples
+   - Browse examples for common NN implementation
+   - Browse examples of application to real world data
 
 2. **Contributing:**
-   - Read our [Contributing Guidelines](CONTRIBUTING.md)
    - Use discussion templates for new entries
-   - Follow the peer review process
 
 3. **Finding Solutions:**
    - Use GitHub's search functionality
    - Browse by topic labels
-   - Check pinned discussions for FAQs
 
 ## Topic Categories
 - Fundamentals
@@ -25,7 +22,6 @@ This repository serves as a collaborative technical manual documenting problems,
 - CNN
 - RNN
 - Transformers
-- Problem Sets
 - Final Projects
 
 ## Project Structure
@@ -37,7 +33,6 @@ This repository serves as a collaborative technical manual documenting problems,
 ## Guidelines for Group Members
 1. **Participation Requirements:**
    - Regular contributions
-   - Peer reviews
    - Discussion participation
 
 2. **Quality Standards:**
@@ -48,10 +43,8 @@ This repository serves as a collaborative technical manual documenting problems,
 
 3. **Collaboration Process:**
    - Use discussion templates
-   - Follow review guidelines
-   - Update documentation
-   - Track contributions
+
 
 ## Contact
-- Group Leader 1: [Name]
-- Group Leader 2: [Name]
+- Group Leader 1: Brasdefer, Juan Pablo
+- Group Leader 2: Cárdenas Sanchez, Daniel
