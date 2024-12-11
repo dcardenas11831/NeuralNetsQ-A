@@ -25,9 +25,8 @@ This repository serves as a collaborative technical manual documenting problems,
 - Final Projects
 
 ## Project Structure
-- Each major topic has its own discussion category
+- Each major topic has its own discussion
 - Solutions are documented with working code examples
-- Peer review system ensures quality
 - Version control tracks all changes
 
 ## Guidelines for Group Members
